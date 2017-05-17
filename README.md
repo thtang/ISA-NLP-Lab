@@ -7,5 +7,5 @@ The students are required to do the assignment in class. The instructor and teac
 hand to help students. 
 
 ### Keywords:
-`Spell checher` &nbsp; `Ngram language model`&nbsp;&nbsp; `Collocation extraction` &nbsp;`Hidden Markov Model` 
+`Spell checker` &nbsp; `Ngram language model`&nbsp;&nbsp; `Collocation extraction` &nbsp;`Hidden Markov Model` 
 `Grammatical error correction` `Text classification` `Word representation` 
