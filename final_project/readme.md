@@ -1,5 +1,6 @@
-How to chat like A Pro
-Chatting Aided System 
+# How to chat like A Pro
+### Chatting Aided System 
+
 Frank Tsai, Andy Chien, Jason Tang
  
 Abstract
@@ -16,19 +17,22 @@ Prblem Statement:
 Detailed plan of activities (Include a timeline and assignments of responsibilities.)
  
 (1) 剖析資料、資料前處理、分類對話
+
      1.1 找出聊天記錄的段落
      1.2 區隔男女生聊天的語句
      1.3 算出句子間的向量
+     
  (2) Sentences representation
+ 
      2.1 Tf-Idf vectorization
      2.2 Doc2Vec
      2.3 Average (Median) Word2Vec
+     
 (3) Mapping Model
+
      3.1 Parse user’s input
      3.2 get the most similar sentence in model
      3.3 return the following sentence to enhance user’s chat experience.
  
-Data and resources
- 
-Online chatting record
+Data and resources : Online chatting record
  
