@@ -46,7 +46,7 @@ def query2Vec(string):
 
 
 def query_sent(q_string):
-	sims = index[query_sent(q_string)]  #將 query餵入 index 這個 model，他算出 query 與 那些回覆 的相似度
+	sims = index[query2Vec(q_string)]  #將 query餵入 index 這個 model，他算出 query 與 那些回覆 的相似度
 	np_sort = np.argsort(sims) #照相似度排序
 	sims_top = np_sort[::-1][:50] #取前五十個像的
 	output_tup = []
