@@ -2,7 +2,7 @@
 ### Chatting Aided System 
 
 Frank Tsai, Andy Chien, Jason Tang
- 
+System : https://github.com/ju5td0m7m1nd/chat_aid
 <b>Abstract:</b>
 
 現今的社會越來越不善於和陌生人社交，常會發生一段聊天過程不到10句就接不下去的尷尬情形，但往往只需要一句可以破冰的關鍵，就能夠延續一段友誼，甚至是成為知心好友。
