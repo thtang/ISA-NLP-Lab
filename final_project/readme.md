@@ -1,7 +1,7 @@
 # How to chat like A Pro
 ### Chatting Aided System 
 
-Frank Tsai, Andy Chien, Jason Tang
+Jason Tang, Frank Tsai, Andy Chien
 
 System : https://github.com/ju5td0m7m1nd/chat_aid
 
